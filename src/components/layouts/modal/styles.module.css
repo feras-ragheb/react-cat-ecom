@@ -1,0 +1,7 @@
+.wrapper {
+    background: rgba(13, 13, 13, 0.8);
+    z-index: 98;
+    position: fixed;
+    inset: 0;
+  }
+  
